@@ -11,3 +11,17 @@ border: 10PX;}
 #SLOGAN { text-align: right;
 margin-right: 100px;
 font-size: 50px;}
+
+
+#username {text-align: right;
+margin-right: 200px;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: inline-block;}
+
+    
+
+    button {text-align: right;
+        margin-right: 200px;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
